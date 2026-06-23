@@ -48,7 +48,7 @@ whoopsie! XD
 | --- | --- |
 | - item 1 <br> - item 2 | ### Wait a header inside a table? |
 | > Blockquote table cell | `code block smash` |
-<-- # hi -->
+<!-- # hi -->
 
 
 This is the code so far:  
