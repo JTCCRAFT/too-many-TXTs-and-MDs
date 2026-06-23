@@ -36,7 +36,19 @@ What is going on anymore
 >>>>> How deep does it go?
 >>>>>> Nobody knows.
 >>>>>>> Stop looking at me.
-
+## Time to break the font
+This text is <b>completely fine until right now
+And now everything below this line is permanently bolded.
+Even the next headers. 
+Even the footer.
+Chaos.
+</b>  
+whoopsie! XD
+| Column 1 | Column 2 |
+| --- | --- |
+| - item 1 <br> - item 2 | ### Wait a header inside a table? |
+| > Blockquote table cell | `code block smash` |
+<-- # hi -->
 
 
 This is the code so far:  
@@ -79,7 +91,20 @@ What is going on anymore
 >>>>> How deep does it go?
 >>>>>> Nobody knows.
 >>>>>>> Stop looking at me.
+## Time to break the font
+This text is <b>completely fine until right now
+And now everything below this line is permanently bolded.
+Even the next headers. 
+Even the footer.
+Chaos.
+</b>  
+whoopsie! XD
+| Column 1 | Column 2 |
+| --- | --- |
+| - item 1 <br> - item 2 | ### Wait a header inside a table? |
+| > Blockquote table cell | `code block smash` |
+<!-- # hi -->
 
 
-This is the code so far:  
+This is the code so far:
 ```
